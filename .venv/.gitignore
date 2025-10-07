@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+
+# PyCharm
+.idea/
+
+# Сборки PyInstaller
+build/
+dist/
+*.spec
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Логи и временные файлы
+*.log
